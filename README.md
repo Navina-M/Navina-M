@@ -14,50 +14,6 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class NavinaM:
-    def __init__(self):
-        self.name         = "Navina M"
-        self.location     = "Virudhunagar, Tamil Nadu, India"
-        self.degree       = "B.E. Computer Science & Engineering (2023–2027)"
-        self.university   = "Ramco Institute of Technology, Anna University"
-        self.cgpa         = 8.48
-
-        self.stack = [
-            "Python", "Java", "C",
-            "HTML", "CSS", "JavaScript", "PHP",
-            "ReactJS", "Node.js", "Express.js", "Flask", "FastAPI",
-            "MySQL", "MongoDB", "SQLite"
-        ]
-
-        self.domains = [
-            "Cybersecurity & Networking",
-            "Full-Stack Web Development",
-            "AI / ML",
-            "Flutter (Dart)"
-        ]
-
-        self.tools = [
-            "Cisco Packet Tracer", "Power BI",
-            "Canva", "Google Colab", "Jupyter Notebook",
-            "UiPath Studio"
-        ]
-
-        self.currently_learning = [
-            "Advanced Networking & Security Protocols",
-            "Machine Learning with Python",
-            "UiPath RPA Automation"
-        ]
-
-        self.fun_fact = "I write stories & quotes ✍️ and contribute to my college magazine!"
-
-    def motto(self):
-        return "Continual self-development — progress at every step, excellence in every effort."
-```
-
-<br clear="right"/>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -107,43 +63,6 @@ class NavinaM:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Navina-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Navina-M&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Navina-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navina-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Navina-M&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navina-M&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navina-M&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 ---
 
